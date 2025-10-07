@@ -15,10 +15,15 @@ Das Dokument wurde lokal verändert, die Datei jedoch noch nicht forbereitet fü
 Die neue Datei erscheint unter untracked files.
 
 ### Task 4
+Im lokalen repository auf dem Computer wird der zustand des ersten Commits wieder hergestellt, somit alle nachfolgenden änderungen wieder entfernt. Beim wechsel zurück in den letzten Commit werden die änderungen wieder hergestellt.
 
 ### Task 5
+Auf dem lokalen repository werden alle änderungen durchgeführt. Dann werden die Dateien durch den Push befehl auf das remote repository geladen.
+Alle Dateien welche noch nicht gepushed wurden gehen beim löschen des lokalen repositorys verloren. Ebenfalls wird die Commit historie verlorern.
+Auf das Remote repository hat das löschen keinen Einfluss.
 
 ### Task 6
+Nein beim Fork wurde das Repository in ein separates Repository kopiert. Die beiden Repositories sind nun unabhängig
 
 ## Gitgraph
 

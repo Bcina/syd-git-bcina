@@ -28,5 +28,15 @@ Nein beim Fork wurde das Repository in ein separates Repository kopiert. Die bei
 ## Gitgraph
 
 ### Task 7
+1. Branch
+2. Hash
+3. commit message
+4. Author
+5. Tag
+6. Merge of feater-auth into develop
+7. commit in sekundär branch feater-auth 
+8. erstellenung der branch feater-auth, merge von develop into main
+9. Branch develop
+10. Branch main
 
 ![Gitgraph](img/gitgraph.svg)
